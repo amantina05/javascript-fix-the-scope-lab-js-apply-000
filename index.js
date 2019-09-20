@@ -26,18 +26,13 @@ var funkyFunction = function() {
     return "FUNKY!"
   }
 }
+theFunk = funkyFunction()
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
 // NOTE: you only need to modify the code below this line.
 var theFunk = funkyFunction
 
 
-//   describe('add2(n)', function() {
-//     it('adds two to n', function() {
-//       const n = Math.floor(Math.random() * 1000)
-//       expect(window.add2(n)).toEqual(n + 2)
-//     })
-//   })
 
 //   describe('funkyFunction()', function() {
 //     it('returns a function', function() {
